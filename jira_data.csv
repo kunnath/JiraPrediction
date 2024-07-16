@@ -1,0 +1,6 @@
+jira_id,requirement,defect,priority,status,created_date,resolved_date,component
+JIRA-001,Login functionality,1,High,Closed,2024-07-01,2024-07-05,Authentication
+JIRA-002,Search feature,0,Medium,Closed,2024-07-02,2024-07-06,Search
+JIRA-003,Checkout process,1,High,In Progress,2024-07-03,,Payment
+JIRA-004,User profile update,0,Low,Closed,2024-07-04,2024-07-07,User Management
+JIRA-005,Password reset,1,High,Open,2024-07-05,,Authentication
