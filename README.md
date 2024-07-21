@@ -5,7 +5,8 @@ Overview
 This project aims to build a defect prediction model using data from Jira tickets. The model is trained using a Random Forest classifier to predict the likelihood of a defect based on various features from the dataset.
 Project Structure
 
-	•	main_script.py: Main script to preprocess the data, train the model, evaluate its performance, and save the trained model and encoders.
+	•	ModelDevelopment.py: Main script to preprocess the data, train the model, evaluate its performance, and save the trained model and encoders.
+    •   NewDataPrediction.py : To Predict the newdat.csv using the  developed model 
 	•	DataPreprocessing.py: Module containing the preprocess_data function to preprocess the Jira data.
 	•	jira_data.csv: CSV file containing the raw Jira data.
 	•	newdat.csv: CSV file containing new Jira data for prediction.
